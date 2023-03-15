@@ -21,12 +21,12 @@ D3 (Document-Driven-Data) is a powerful JS library for manipulating documents ba
 
 D3 is not a monolithic framework. Instead, D3 is a suite of many small modules with minimal dependencies that can be loaded independently. These modules provide low-level building blocks, such as selections, scales, shapes, and so on, rather than configurable charts. Although D3 is a popular choice for implementing web-based visualizations, the low-level primitives and wide range of functionality can be used for all kinds of things.
 
-In this course, we will use the official [D3 bundle](https://d3js.org/d3.v6.min.js) that contains all the default modules to make things easier. Once you are more experienced, you don't need to always load the entire library and you can include only the parts that you actually use.
+In this course, we will use the official [D3 bundle](https://registry.npmjs.org/d3/-/d3-7.8.2.tgz) that contains all the default modules to make things easier. Once you are more experienced, you don't need to always load the entire library and you can include only the parts that you actually use.
 
 
 #### D3 Version
 
-We will use D3 version 6. When looking up code examples online, be aware that many examples still use version 3, which was a lot less modular than newer versions. The differences between version 4 and version 6 are mostly minor but some of the concepts are simplified and new features are introduced. You can look up the differences between major releases in the [D3 docs](https://github.com/d3/d3/blob/master/CHANGES.md).
+We will use D3 version 6. When looking up code examples online, be aware that many examples still use version 3, which was a lot less modular than newer versions. The differences between version 4 and version 7 are mostly minor but some of the concepts are simplified and new features are introduced. You can look up the differences between major releases in the [D3 docs](https://github.com/d3/d3/blob/master/CHANGES.md).
 
 
 #### D3 Integration
