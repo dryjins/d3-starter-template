@@ -330,7 +330,7 @@ svg.selectAll('rect')
 
 Now, we highly recommend that you create your first D3 project and implement this little example.
 
-1. **Create a new D3 project or clone our [D3 project starter template](https://github.com/UBC-InfoVis/d3-starter-template)**
+1. **Create a new D3 project or clone our [D3 project starter template](https://github.com/dryjins/d3-starter-template)**
 
 2. **Append a new SVG element to your HTML document with D3** (width: 500px, height: 500px)
 
