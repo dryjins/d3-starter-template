@@ -1,0 +1,51 @@
+state,volume,speed
+Alabama,100,60
+Alaska,50,40
+Arizona,200,70
+Arkansas,75,50
+California,500,65
+Colorado,150,55
+Connecticut,75,45
+Delaware,25,40
+Florida,300,70
+Georgia,200,65
+Hawaii,20,45
+Idaho,50,60
+Illinois,250,55
+Indiana,150,60
+Iowa,75,50
+Kansas,100,55
+Kentucky,100,60
+Louisiana,125,55
+Maine,25,40
+Maryland,100,50
+Massachusetts,100,50
+Michigan,200,60
+Minnesota,100,55
+Mississippi,75,50
+Missouri,150,55
+Montana,25,50
+Nebraska,50,60
+Nevada,75,65
+New Hampshire,25,45
+New Jersey,150,55
+New Mexico,50,55
+New York,300,50
+North Carolina,200,65
+North Dakota,25,50
+Ohio,200,60
+Oklahoma,100,55
+Oregon,100,60
+Pennsylvania,200,55
+Rhode Island,25,45
+South Carolina,100,65
+South Dakota,25,50
+Tennessee,150,60
+Texas,500,70
+Utah,75,55
+Vermont,25,40
+Virginia,150,60
+Washington,150,60
+West Virginia,50,50
+Wisconsin,100,55
+Wyoming,25,50
